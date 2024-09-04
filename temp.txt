@@ -1,0 +1,12 @@
+// what is server
+A server is a computer or system that provides services, data, or resources to other computers, called clients, over a network.
+
+// what is server
+A server is software that serves the services.
+
+// DB
+DB should always another continent.
+
+// DB framework libary
+ORM and ODM
+rdbms vs dbms
